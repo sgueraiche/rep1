@@ -1,0 +1,34 @@
+[
+ {
+  "shape": "Split Studio",
+  "theme": "brand",
+  "axes": "light/geometric-sans/cool",
+  "hero": "Ledge",
+  "nav": "slab",
+  "footer": "colophon block",
+  "imagery": "photographs, the agency own 2",
+  "photos": [
+   "oxatis-partenariat",
+   "atelier-cci-normandie"
+  ],
+  "entry": "none",
+  "fingerprint": "Bottom-aligned|Asymmetric spans|Hairline|Solid|Tightly cropped|None",
+  "sections": [
+   "Ledge hero",
+   "Figures band",
+   "Rows",
+   "Split photo",
+   "Index names",
+   "Band list",
+   "Contact table"
+  ],
+  "signature": "panoramic working-session photograph, headline resting on its base",
+  "waived": [],
+  "prompt": "agency homepage redesign: strategy, communication, marketing, AI, Occitanie",
+  "mode": "build",
+  "genre": "modern-minimal",
+  "job": "hire",
+  "draw": "d17066",
+  "date": "2026-11-22"
+ }
+]
